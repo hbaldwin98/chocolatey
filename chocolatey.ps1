@@ -9,7 +9,7 @@ if (!(Test-Path "$env:ProgramData\chocolatey\choco.exe")) {
     Set-ExecutionPolicy Bypass -Scope Process -Force; iwr https://community.chocolatey.org/install.ps1 -UseBasicParsing | iex
 }
 
-$programsJson = Get-Content -Raw -Path "$PSScriptRoot\scripts.json"
+$programsJson = Get-Content -Raw -Path "$PSScriptRoot\apps.json"
 $programs = ConvertFrom-Json $programsJson
 
 # Filter programs based on flags

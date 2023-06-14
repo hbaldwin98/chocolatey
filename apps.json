@@ -1,0 +1,225 @@
+[
+    {
+        "name": "7zip",
+        "packageName": "7zip",
+        "type": [
+            "essential"
+        ]
+    },
+    {
+        "name": "android-sdk",
+        "packageName": "android-sdk",
+        "type": [
+            "dev",
+            "work",
+            "optional"
+        ]
+    },
+    {
+        "name": "android-studio",
+        "packageName": "androidstudio",
+        "type": [
+            "dev",
+            "work",
+            "optional"
+        ]
+    },
+    {
+        "name": "brave browser",
+        "packageName": "brave",
+        "type": [
+            "essential"
+        ]
+    },
+    {
+        "name": "calibre",
+        "packageName": "calibre",
+        "type": [
+            "optional",
+            "media"
+        ]
+    },
+    {
+        "name": "chrome",
+        "packageName": "google-chrome",
+        "type": [
+            "optional",
+            "dev"
+        ]
+    },
+    {
+        "name": "discord",
+        "packageName": "discord",
+        "type": [
+            "gaming",
+            "essential"
+        ]
+    },
+    {
+        "name": "docker desktop",
+        "packageName": "docker-desktop",
+        "type": [
+            "dev",
+            "work"
+        ]
+    },
+    {
+        "name": "dockercli",
+        "packageName": "docker-cli",
+        "type": [
+            "dev",
+            "work"
+        ]
+    },
+    {
+        "name": "equalizerapo",
+        "packageName": "equalizerapo",
+        "type": [
+            "optional",
+            "media"
+        ]
+    },
+    {
+        "name": "firefox",
+        "packageName": "firefox",
+        "type": [
+            "optional",
+            "dev"
+        ]
+    },
+    {
+        "name": "git",
+        "packageName": "git",
+        "type": [
+            "dev",
+            "work",
+            "essential"
+        ]
+    },
+    {
+        "name": "git-fork",
+        "packageName": "git-fork",
+        "type": [
+            "dev",
+            "work",
+            "optional"
+        ]
+    },
+    {
+        "name": "go",
+        "packageName": "go",
+        "type": [
+            "dev",
+            "optional"
+        ]
+    },
+    {
+        "name": "greenshot",
+        "packageName": "greenshot",
+        "type": [
+            "optional"
+        ]
+    },
+    {
+        "name": "libreoffice",
+        "packageName": "libreoffice-fresh",
+        "type": [
+            "optional"
+        ]
+    },
+    {
+        "name": "neovim",
+        "packageName": "neovim",
+        "type": [
+            "dev"
+        ]
+    },
+    {
+        "name": "nvm",
+        "packageName": "nvm",
+        "type": [
+            "dev",
+            "work",
+            "essential"
+        ]
+    },
+    {
+        "name": "obsidian",
+        "packageName": "obsidian",
+        "type": [
+            "optional"
+        ]
+    },
+    {
+        "name": "powershell7",
+        "packageName": "powershell-core",
+        "type": [
+            "dev",
+            "essential"
+        ]
+    },
+    {
+        "name": "qbit",
+        "packageName": "qbittorrent",
+        "type": [
+            "optional"
+        ]
+    },
+    {
+        "name": "slack",
+        "packageName": "slack",
+        "type": [
+            "work"
+        ]
+    },
+    {
+        "name": "spotify",
+        "packageName": "spotify",
+        "type": [
+            "essential",
+            "media"
+        ]
+    },
+    {
+        "name": "steam",
+        "packageName": "steam",
+        "type": [
+            "gaming",
+            "essential"
+        ]
+    },
+    {
+        "name": "teamspeak3",
+        "packageName": "teamspeak-client",
+        "type": [
+            "gaming",
+            "essential"
+        ]
+    },
+    {
+        "name": "vlc",
+        "packageName": "vlc",
+        "type": [
+            "optional",
+            "media"
+        ]
+    },
+    {
+        "name": "visual studio 2022",
+        "packageName": "visualstudio2022community",
+        "type": [
+            "work",
+            "essential",
+            "dev"
+        ]
+    },
+    {
+        "name": "visual studio code",
+        "packageName": "vscode",
+        "type": [
+            "work",
+            "essential",
+            "dev"
+        ]
+    }
+]
